@@ -1,0 +1,1 @@
+INDEX VERSION 1.131+/home/wanru/Documentos/Gorka/recuperacion-ddi-proyecto-ddi/src/main/java/servlet/.metadata/.plugins/org.eclipse.jdt.core
